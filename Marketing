@@ -1,1 +1,7 @@
-This is information about my app
+This app is a wonderful tool for any participant in a transaction. 
+It is used to calculate the total, one item at a time based on the price and quantity of each item. 
+It can include both positive and negative prices (for debts). 
+The total and it's formula, are displayed clearly in a scrollable text. 
+Clear is used to reset the total to zero. 
+Done can be used to lower the keyboard at will.
+Total is used to add a new item and update the current total and it's formula. 
