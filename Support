@@ -1,0 +1,5 @@
+The "Clear" button is used to reset the total to zero. 
+The "Done" button can be used to lower the current key pad.
+The "Total" button is used to add the current price and quantity to the total and display that value and it's formula.
+Price must be a number with at most one decimal place. Quantity must be an integer with no decimal place. 
+"Total" will simply clear quantity or price if the input doesn't make sense. 
